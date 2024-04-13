@@ -444,6 +444,7 @@ a:hover, a:active, a:focus {
 
 #experience .experience-img {
   background: url('../images/projects.avif') no-repeat;
+  margin-top: -46px;
 }
 
 #experience .media-heading {
