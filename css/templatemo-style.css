@@ -358,7 +358,7 @@ a:hover, a:active, a:focus {
 #home .home-img {
   background: url('../images/mainpic1.jpg') no-repeat;
   background-size: cover;
-  background-position: 50% 50%;
+  background-position: 75% 27%;
   width: 100%;
   height: 90vh;
 }
